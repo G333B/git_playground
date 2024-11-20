@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git_playground
 ==============
 
@@ -9,3 +10,10 @@ git_playground
 =======
 **in feature**
 >>>>>>> 4303266 (Add subtitle to README.md)
+=======
+# git_playground
+
+
+
+*** HOTFIX
+>>>>>>> b50b329 (subtile hotfix)
